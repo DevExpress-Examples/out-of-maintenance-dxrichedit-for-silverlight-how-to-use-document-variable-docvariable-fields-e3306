@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GeoLocation.cs](./CS/DocumentVariablesExample/GeoLocation.cs) (VB: [GeoLocation.vb](./VB/DocumentVariablesExample/GeoLocation.vb))
+* [MainPage.xaml](./CS/DocumentVariablesExample/MainPage.xaml) (VB: [MainPage.xaml](./VB/DocumentVariablesExample/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/DocumentVariablesExample/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/DocumentVariablesExample/MainPage.xaml))
+* [SampleData.cs](./CS/DocumentVariablesExample/SampleData.cs) (VB: [SampleData.vb](./VB/DocumentVariablesExample/SampleData.vb))
+* [Weather.cs](./CS/DocumentVariablesExample/Weather.cs) (VB: [Weather.vb](./VB/DocumentVariablesExample/Weather.vb))
+<!-- default file list end -->
 # DXRichEdit for Silverlight: How to use document variable (DOCVARIABLE) fields
 
 
